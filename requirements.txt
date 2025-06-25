@@ -1,0 +1,6 @@
+boto3
+pynput
+sounddevice
+soundfile
+numpy
+mss
