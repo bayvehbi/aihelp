@@ -1,0 +1,2 @@
+AWS_REGION = ""
+S3_BUCKET_NAME = ""
